@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a1c0ada09c5c5488a2b89dc2a2d2f0, type: 3}
+  m_Name: MachineGun_Stats
+  m_EditorClassIdentifier: 
+  weaponName: M249
+  weaponIcon: {fileID: 21300000, guid: 4da9f03ae1b5e404eb0649928b02e80f, type: 3}
+  projectilePrefab: {fileID: 425602145504929835, guid: a293131954346084f9c1b9645f3c235a, type: 3}
+  weaponType: 4
+  damage: 80
+  fireRate: 0.05
+  maxAmmo: 120
+  ammoThreshold: 20
+  range: 80
+  reloadTime: 3.5
+  isAutomatic: 1
+  burstCount: 0
+  muzzleFlashPrefab: {fileID: 0}
