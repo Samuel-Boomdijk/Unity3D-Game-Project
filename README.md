@@ -75,12 +75,12 @@ This project demonstrates:
 
 ## 📂 Project Structure
 Assets/
-- ├── Characters/        # Player & Zombie models, animations
-- ├── Scenes/            # Unity scenes (main menu, startScene, etc.)
-- ├── Scripts/           # C# scripts for gameplay, AI, weapons
-- ├── Sprites/           # 2D assets for UI, HUD, icons
-- ├── TextMesh Pro/      # Fonts and UI text assets
-- └── Weapons/           # Models, textures, and prefabs for weapons
+- ├── Characters/         Player & Zombie models, animations
+- ├── Scenes/             Unity scenes (main menu, startScene, etc.)
+- ├── Scripts/            C# scripts for gameplay, AI, weapons
+- ├── Sprites/            2D assets for UI, HUD, icons
+- ├── TextMesh Pro/       Fonts and UI text assets
+- └── Weapons/            Models, textures, and prefabs for weapons
 
 ---
 
