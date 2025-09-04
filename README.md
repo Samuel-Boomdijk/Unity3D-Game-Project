@@ -36,7 +36,7 @@ The project demonstrates core game development principles: AI-driven enemies, pl
 Gameplay example:  
 
 ![Weapons Menu Screenshot](screenshots/WeaponMenu.png)  
-![Gameplay Screenshot](screenshots/gameplay.png) 
+![Gameplay Screenshot](screenshots/Gameplay.png) 
 
 ---
 
